@@ -1,0 +1,23 @@
+---
+title: ""
+author: "Yuhang Huang"
+date: "12/16/2022"
+output: html_document
+---
+output:
+  pdf_document: 
+    latex_engine: xelatex
+  rticles::ctex: default
+documentclass: ctexart
+
+geometry: left = 2.0cm, right = 2.0cm, top = 2.0cm, bottom = 2.0cm
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+
+```
+
+```{r}
+
+```
